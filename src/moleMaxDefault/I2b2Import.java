@@ -41,7 +41,7 @@ public class I2b2Import {
 
   
   
-  //Rinner Ffragen Lombok getter/stter?test1
+  //Rinner Ffragen Lombok getter/setter?
   
   
 public void insertImageIntoI2b2(parseObjectImage image, Connection conn) {	
